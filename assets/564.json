@@ -1,0 +1,30 @@
+{
+  "name": "Degen Ponzi Business #564",
+  "symbol": "DGB",
+  "description": "2x your money NOW",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://twitter.com/DegenPonzi",
+  "edition": 564,
+  "attributes": [
+    {
+      "trait_type": "Coin",
+      "value": "DPB-compressed - Copy (66) - Copy - Copy - Copy - Copy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "H2Dit4ZxcdL3zQ8ec2qtkJbuYDWiYa4bVrDGiH2K5qHU",
+        "share": 100
+      }
+    ]
+  }
+}

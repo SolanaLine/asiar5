@@ -1,15 +1,15 @@
 {
-  "name": "Degen Ponzi Business #3",
-  "symbol": "DGB",
-  "description": "2x your money NOW",
+  "name": "ASIA'S FINEST DAO #3",
+  "symbol": "AFD",
+  "description": "THE FINEST DAO IN ASIA",
   "seller_fee_basis_points": 1000,
   "image": "image.png",
-  "external_url": "https://twitter.com/DegenPonzi",
+  "external_url": "",
   "edition": 3,
   "attributes": [
     {
-      "trait_type": "Coin",
-      "value": "DPB-compressed - Copy - Copy (36) - Copy - Copy - Copy"
+      "trait_type": "DAO",
+      "value": "Asias_Finest_DAO - Copy (21) - Copy - Copy - Copy - Copy"
     }
   ],
   "properties": {
@@ -22,7 +22,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "H2Dit4ZxcdL3zQ8ec2qtkJbuYDWiYa4bVrDGiH2K5qHU",
+        "address": "5WkUzuEm5amxk9wEKwQCCe7MPEKXc7zQE4DuG9DiRjVh",
         "share": 100
       }
     ]
